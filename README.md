@@ -63,21 +63,6 @@ A lightweight and easy-to-use desktop application that automates key pressing ta
 
 ---
 
-## Project Structure
-
-```text
-AutoClicker/
-├── AutoClicker.exe
-├── assets/
-│   └── screenshots/
-│       ├── main-interface.png
-│       ├── settings-window.png
-│       └── demo.gif
-└── README.md
-```
-
----
-
 ## Additional Information
 
 - This is the version 1 of the auto clicker, which focuses more on key press rather than mouse press.
@@ -102,4 +87,5 @@ This software is made free for everyone. Users are responsible for complying wit
 **Yukode**
 
 GitHub: https://github.com/Yukode
+<br>
 Project Link: https://github.com/Yukode/auto-clicker_releases
