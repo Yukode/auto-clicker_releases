@@ -86,7 +86,7 @@ This software is made free for everyone. Users are responsible for complying wit
 
 **Made by Yukode**
 
-Website: Website: https://yukode.netlify.app/
+Website: https://yukode.netlify.app/
 <br>
 GitHub: https://github.com/Yukode
 <br>
