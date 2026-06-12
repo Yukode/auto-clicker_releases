@@ -84,8 +84,10 @@ This software is made free for everyone. Users are responsible for complying wit
 
 ## Author
 
-**Yukode**
+**Made by Yukode**
 
+Website: Website: https://yukode.netlify.app/
+<br>
 GitHub: https://github.com/Yukode
 <br>
 Project Link: https://github.com/Yukode/auto-clicker_releases
