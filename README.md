@@ -1,10 +1,10 @@
 # AutoClicker
 
-A lightweight and easy-to-use desktop application that automates key pressing tasks with customizable settings.
+A lightweight and easy-to-use desktop application that automates key and mouse pressing tasks with customizable settings.
 
 ## Features
 
-* Customizable key interval
+* Customizable key and mouse interval
 * Start and stop key shortcut control
 * Lightweight and fast
 * User-friendly interface
@@ -13,18 +13,20 @@ A lightweight and easy-to-use desktop application that automates key pressing ta
 
 ## Screenshots
 
+### Keyboard Clicker - Simple Mode
+![Main Interface](assets/screenshots/Keyboard_Simple.png)
 
-### Simple Mode
+### Keyboard Clicker - Advanced Mode
+![Main Interface](assets/screenshots/Keyboard_Advanced.png)
 
-![Main Interface](assets/screenshots/Simple.png)
+### Keyboard Clicker - Running
+![Main Interface](assets/screenshots/Keyboard_Running.png)
 
-### Advanced Mode
+### Mouse Clicker - Simple Mode
+![Main Interface](assets/screenshots/Mouse_Simple.png)
 
-![Main Interface](assets/screenshots/Advanced.png)
-
-### Running
-
-![Main Interface](assets/screenshots/Running.png)
+### Mouse Clicker - Advanced Mode
+![Main Interface](assets/screenshots/Mouse_Advanced.png)
 
 ---
 
@@ -39,7 +41,7 @@ A lightweight and easy-to-use desktop application that automates key pressing ta
 ## Usage
 
 1. Launch the application.
-2. Set your preferred key interval (simple or advanced).
+2. Set your preferred key or mouse point interval (simple or advanced).
 3. Configure any additional options.
 4. Press **Start** or set key to begin auto-clicking.
 5. Press **Stop** or set key to end the process.
@@ -58,15 +60,23 @@ A lightweight and easy-to-use desktop application that automates key pressing ta
 ## Requirements
 
 * Windows
-* Mouse and keyboard
 * No internet connection required
 
 ---
 
 ## Additional Information
 
-- This is the version 1 of the auto clicker, which focuses more on key press rather than mouse press.
-- Succeeding versions will include the mouse press, with supported specific locations from the screen for abstact mouse location clicking (applied through X and Y coordinates).
+- This is the version 2 of the auto clicker, with both mouse and key support.
+- Version 2 update includes the major addition of the mouse feature, with both Simple and Advanced modes.
+- Overall, the application has now the following features:
+    KEY CLICKER
+        - Simple Mode   : Press a single key per time set
+        - Advanced Mode : Press multiple keys per time set in order
+    MOUSE CLICKER
+        - Simple Mode   : Press a single mouse click (cursor based) per time set
+        - Advanced Mode : Press multiple mouse clicks (coordinates X and Y based) per time set in order
+- The Mouse Advanced mode allows the user to set their desired mouse point location to be clicked anywhere in their screen.
+- Future versions of this application may happen, but this version is the most stable and currently maintained.
 
 ---
 
@@ -85,8 +95,9 @@ This software is made free for everyone. Users are responsible for complying wit
 ## Author
 
 **Made by Yukode**
+**See more of me:**
 
-Website: https://yukode.netlify.app/
+Website: https://yukode.netlify.app
 <br>
 GitHub: https://github.com/Yukode
 <br>
