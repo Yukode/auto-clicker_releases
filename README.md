@@ -69,12 +69,14 @@ A lightweight and easy-to-use desktop application that automates key and mouse p
 - This is the version 2 of the auto clicker, with both mouse and key support.
 - Version 2 update includes the major addition of the mouse feature, with both Simple and Advanced modes.
 - Overall, the application has now the following features:
-    KEY CLICKER
-        - Simple Mode   : Press a single key per time set
-        - Advanced Mode : Press multiple keys per time set in order
-    MOUSE CLICKER
-        - Simple Mode   : Press a single mouse click (cursor based) per time set
-        - Advanced Mode : Press multiple mouse clicks (coordinates X and Y based) per time set in order
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KEY CLICKER
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Simple Mode   : Press a single key per time set
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Mode : Press multiple keys per time set in order
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOUSE CLICKER
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Simple Mode   : Press a single mouse click (cursor based) per time set
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Mode : Press multiple mouse clicks (coordinates X and Y based) per time set in order
 - The Mouse Advanced mode allows the user to set their desired mouse point location to be clicked anywhere in their screen.
 - Future versions of this application may happen, but this version is the most stable and currently maintained.
 
@@ -95,6 +97,7 @@ This software is made free for everyone. Users are responsible for complying wit
 ## Author
 
 **Made by Yukode**
+<br>
 **See more of me:**
 
 Website: https://yukode.netlify.app
