@@ -69,10 +69,11 @@ A lightweight and easy-to-use desktop application that automates key and mouse p
 - This is the version 2 of the auto clicker, with both mouse and key support.
 - Version 2 update includes the major addition of the mouse feature, with both Simple and Advanced modes.
 - Overall, the application has now the following features:
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**KEY CLICKER**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Simple Mode   : Press a single key per time set<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Mode : Press multiple keys per time set in order<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MOUSE CLICKER**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MOUSE CLICKER**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Simple Mode   : Press a single mouse click (cursor based) per time set<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Mode : Press multiple mouse clicks (coordinates X and Y based) per time set in order<br>
 - The Mouse Advanced mode allows the user to set their desired mouse point location to be clicked anywhere in their screen.
