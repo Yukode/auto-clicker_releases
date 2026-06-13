@@ -94,9 +94,9 @@ This software is made free for everyone. Users are responsible for complying wit
 
 ## Author
 
-**Made by Yukode**
+Made by **Yukode**
 <br>
-**See more of me:**
+See more of me:
 
 Website: https://yukode.netlify.app
 <br>
